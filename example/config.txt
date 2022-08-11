@@ -1,0 +1,2 @@
+Prefix plugins/ExtractTest/example
+Plugin ExtractTest inputfile parameters.txt outputfile 500_LD2011_2012.txt
